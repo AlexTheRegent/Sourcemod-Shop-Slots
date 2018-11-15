@@ -1,0 +1,5 @@
+"slots"
+{
+	"credits_pool"		"0"
+	"jackpot_pool"		"0"
+}

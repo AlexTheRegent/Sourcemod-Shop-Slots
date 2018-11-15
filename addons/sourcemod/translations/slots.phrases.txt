@@ -1,0 +1,153 @@
+"Phrases"
+{
+	"slots title"
+	{
+		"#format"	""
+		"ru"		"Слоты\n \n"
+		"en"		"Slots\n \n"
+	}
+	"slots title credits"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Слоты [у вас {1} кредитов]\n \n"
+		"en"		"Slots [you have {1} credits]\n \n"
+	}
+	"play"
+	{
+		"#format"	""
+		"ru"		"Играть!"
+		"en"		"Play!"
+	}
+	"info"
+	{
+		"#format"	""
+		"ru"		"О комбинациях"
+		"en"		"About combos"
+	}
+	"bet title"
+	{
+		"#format"	""
+		"ru"		"Ставки\n \n"
+		"en"		"Bets\n \n"
+	}
+	"bet title credits"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Ставки [у вас {1} кредитов]\n \n"
+		"en"		"Bets [you have {1} credits]\n \n"
+	}
+	"bet"
+	{
+		"#format"	"{1:d}"
+		"ru"		"{1} кредитов"
+		"en"		"{1} credits"
+	}
+	"won"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Вы выиграли {1} кредитов!"
+		"en"		"You won {1} credits!"
+	}
+	"info title"
+	{
+		"#format"	""
+		"ru"		"Комбинации\n \n"
+		"en"		"Combinations\n \n"
+	}
+	"about symbol"
+	{
+		"#format"	"{1:s},{2:0.1f}"
+		"ru"		"{1} += {2}"
+		"en"		"{1} += {2}"
+	}
+	"not enough credits"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Вам не хватает {1} кредитов"
+		"en"		"Not enough credits (you need {1} more)"
+	}
+	"exit"
+	{
+		"#format"	""
+		"ru"		"Выход"
+		"en"		"Exit"
+	}
+	"exit disabled"
+	{
+		"#format"	""
+		"ru"		"2. Выход"
+		"en"		"2. Exit"
+	}
+	"spin again"
+	{
+		"#format"	""
+		"ru"		"Сыграть снова"
+		"en"		"Spin again"
+	}
+	"spin again disabled"
+	{
+		"#format"	""
+		"ru"		"1. Сыграть снова"
+		"en"		"1. Spin again"
+	}
+	"log before bet"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:d}"
+		"ru"		"Игрок {1} ({2}/{3}) сделал ставку {4} кредитов"
+		"en"		"Player {1} ({2}/{3}) placed bet {4} credits"
+	}
+	"log after bet"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:d},{5:d}"
+		"ru"		"Игрок {1} ({2}/{3}) сделал ставку {4} кредитов, получил {5} кредитов"
+		"en"		"Player {1} ({2}/{3}) placed bet {4} credits and got {5} credits"
+	}
+	"jackpot won all"
+	{
+		"#format"	"{1:s},{2:d}"
+		"ru"		"Игрок {1} выиграл джекпот в размере {2} кредитов!"
+		"en"		"Player {1} got jackpot {2} credits!"
+	}
+	"jackpot won"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Поздравляем! Вы выиграли джекпот в размере {1} кредитов!"
+		"en"		"Congratulations! You won jackpot {1} credits!"
+	}
+	"advertisement jackpot"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Текущий джекпот составляет {1} кредитов!"
+		"en"		"Current jackpot is {1} credits!"
+	}
+	"advertisement jackpot winner"
+	{
+		"#format"	"{1:s},{2:d},{3:s}"
+		"ru"		"Прошлый победитель: {1}. Он выиграл {2} кредитов в {3}"
+		"en"		"Last jackpot winner: {1}. He won {2} credits in {3}"
+	}
+	"not enough credits in pool"
+	{
+		"#format"	"{1:d}"
+		"ru"		"В лотерее недостаточно кредитов!"
+		"en"		"Not enough credits in pool!"
+	}
+	"current credits pool"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Баланс лотереи: {1} кредитов"
+		"en"		"Slots balance: {1} credits"
+	}
+	"new credits pool"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Новый баланс лотереи: {1} кредитов"
+		"en"		"New slots balance: {1} credits"
+	}
+	"current jackpot pool"
+	{
+		"#format"	"{1:d}"
+		"ru"		"Баланс джекпота: {1} кредитов"
+		"en"		"Slots jackpot: {1} credits"
+	}
+}
